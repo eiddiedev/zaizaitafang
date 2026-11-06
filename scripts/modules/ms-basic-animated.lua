@@ -1,0 +1,4 @@
+---@id 2712b9e3-a03b-4d4e-b111-59f4a427eeac
+---@referenceName ms-basic-animated.lua
+---@assetRef eyJhc3NldElkIjoiMTE1NDAwMjI0Njk4OTAiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvaGt1anFnOGNwNmtuMGVkaS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtYmFzaWMtYW5pbWF0ZWQubHVhIn0
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

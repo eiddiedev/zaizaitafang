@@ -1,0 +1,4 @@
+---@id 76ecdc54-459c-49fe-a53d-3a3741f8f456
+---@referenceName ms-beast-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTE0NzE1NDc2NTI4NjYiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvZHRkdXludGJpazduZnBnby5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtYmVhc3QtYW5pbWF0aW9uLmx1YSJ9
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

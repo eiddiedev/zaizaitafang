@@ -1,0 +1,4 @@
+---@id 17b0719a-261c-434e-b88e-8fec48973288
+---@referenceName ms-guard-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTEzNzk0NzI4NTQyNzQiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvYmFyY2t6ejMwN3I5aWF2Zi5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtZ3VhcmQtYW5pbWF0aW9uLmx1YSJ9
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

@@ -1,0 +1,4 @@
+---@id b6428429-da06-4148-badd-8cbda6e55adf
+---@referenceName pi-healer-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTEzNDU3MjY4ODA1MTQiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvcGUweWNvZmMxcTZjbGxodS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktaGVhbGVyLXByZXZpZXcubHVhIn0
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

@@ -1,0 +1,4 @@
+---@id 01bf0af4-211b-4f5e-b317-84c2381f2b6c
+---@referenceName ms-caster-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTEzNDU3MjY4ODI1NjIiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvdHJrd2JidmowejRrbWtvcy5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtY2FzdGVyLWFuaW1hdGlvbi5sdWEifQ
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

@@ -1,0 +1,4 @@
+---@id c5dddc4d-1909-4c1c-9164-afc6e7bcbd5e
+---@referenceName pi-boss-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTE0NzE1NDc2NTMxMjIiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvaWwxeHNzNjZjYWw4a3pjYi5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktYm9zcy1wcmV2aWV3Lmx1YSJ9
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

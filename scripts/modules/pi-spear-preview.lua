@@ -1,0 +1,4 @@
+---@id 242c7a56-f6de-4bdc-9aea-6befeb791263
+---@referenceName pi-spear-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTEzODI4ODI3Mjc2ODIiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvczYwM3c0d29kM2xuNzBidS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktc3BlYXItcHJldmlldy5sdWEifQ
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

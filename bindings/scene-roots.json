@@ -1,0 +1,1134 @@
+[
+  {
+    "name": "地图",
+    "id": 1310297696,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "asset": null
+  },
+  {
+    "name": "出生点",
+    "id": 195401816,
+    "position": {
+      "x": 119.741669,
+      "y": 80.0,
+      "z": 88.64061
+    },
+    "asset": null
+  },
+  {
+    "name": "晶界守卫",
+    "id": -999970105,
+    "position": {
+      "x": 80.0,
+      "y": 80.8,
+      "z": 80.0
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/mix-part-0__upload_jy42dd3x.glb",
+      "assetID": "mix-crystal-defense"
+    }
+  },
+  {
+    "name": "城堡组件_城门13",
+    "id": -1125591785,
+    "position": {
+      "x": 2.012837,
+      "y": 7.846566,
+      "z": 37.68415
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761779250946.glb",
+      "assetID": "4016993426434"
+    }
+  },
+  {
+    "name": "榕树1",
+    "id": 1204775786,
+    "position": {
+      "x": 17.4345322,
+      "y": 7.852068,
+      "z": 25.9081573
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9855144965890.glb",
+      "assetID": "2880737303554"
+    }
+  },
+  {
+    "name": "橡树",
+    "id": 1013932732,
+    "position": {
+      "x": 32.50468,
+      "y": 7.894249,
+      "z": 23.6171379
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9754990129154.glb",
+      "assetID": "4016993662722"
+    }
+  },
+  {
+    "name": "榕树",
+    "id": -1919601848,
+    "position": {
+      "x": 43.0857277,
+      "y": 7.8587656,
+      "z": 42.95053
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9852810270978.glb",
+      "assetID": "4016993660674"
+    }
+  },
+  {
+    "name": "榕树2",
+    "id": 376008580,
+    "position": {
+      "x": 20.2802448,
+      "y": 7.88861275,
+      "z": 44.16072
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786891778.glb",
+      "assetID": "2880737304322"
+    }
+  },
+  {
+    "name": "风车小屋",
+    "id": 1513168696,
+    "position": {
+      "x": 11.9751129,
+      "y": 8.081477,
+      "z": 45.9252739
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9952542726658.glb",
+      "assetID": "9820400851970"
+    }
+  },
+  {
+    "name": "农庄小木屋7",
+    "id": -2071666042,
+    "position": {
+      "x": 41.3667526,
+      "y": 8.03957,
+      "z": 24.6893711
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9838848049922.glb",
+      "assetID": "4016993360642"
+    }
+  },
+  {
+    "name": "芭蕉03",
+    "id": 358580122,
+    "position": {
+      "x": 23.726511,
+      "y": 11.8186007,
+      "z": 25.1070919
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/11003043844098.glb",
+      "assetID": "11077140483330"
+    }
+  },
+  {
+    "name": "灯心草",
+    "id": 520081076,
+    "position": {
+      "x": 21.92051,
+      "y": 3.60287523,
+      "z": 14.57217
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9855144980226.glb",
+      "assetID": "2847099052290"
+    }
+  },
+  {
+    "name": "水晶",
+    "id": 1629402769,
+    "position": {
+      "x": 58.84804,
+      "y": 8.214691,
+      "z": 33.0429726
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9748592644098.glb",
+      "assetID": "2849341976322"
+    }
+  },
+  {
+    "name": "倒伏枯木",
+    "id": 94993155,
+    "position": {
+      "x": 33.2216759,
+      "y": 8.842646,
+      "z": 42.8792648
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9838848050690.glb",
+      "assetID": "4016993341954"
+    }
+  },
+  {
+    "name": "石制圆坛塔基",
+    "id": -1663855084,
+    "position": {
+      "x": 28.11972,
+      "y": 7.860714,
+      "z": 35.80969
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (1)",
+    "id": -882936084,
+    "position": {
+      "x": 47.0848,
+      "y": 7.86072159,
+      "z": 32.4406
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (2)",
+    "id": 813806323,
+    "position": {
+      "x": 16.75198,
+      "y": 7.860714,
+      "z": 33.6685371
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (3)",
+    "id": -1036221965,
+    "position": {
+      "x": 36.9052849,
+      "y": 7.86072159,
+      "z": 36.411438
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (4)",
+    "id": -1593185740,
+    "position": {
+      "x": 28.6721573,
+      "y": 7.860714,
+      "z": 27.405283
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (5)",
+    "id": -180471798,
+    "position": {
+      "x": 46.1273575,
+      "y": 7.86072159,
+      "z": 41.0853958
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (6)",
+    "id": -1977257109,
+    "position": {
+      "x": 8.124553,
+      "y": 7.86072159,
+      "z": 32.48295
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (7)",
+    "id": -854519679,
+    "position": {
+      "x": 19.2426014,
+      "y": 7.86072159,
+      "z": 41.11778
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "晶壁发生器一阶",
+    "id": 924555152,
+    "position": {
+      "x": 29.6756744,
+      "y": -20.0,
+      "z": 34.3198853
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/v34ndlik4k0m71kj.glb",
+      "assetID": "11457454204674"
+    }
+  },
+  {
+    "name": "辉晶采集器一阶",
+    "id": -362933777,
+    "position": {
+      "x": 29.68338,
+      "y": -20.0,
+      "z": 34.9006844
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/7juey20dc41qqufv.glb",
+      "assetID": "11476539695618"
+    }
+  },
+  {
+    "name": "震爆炮台一阶",
+    "id": -1945983143,
+    "position": {
+      "x": 29.692152,
+      "y": -20.0,
+      "z": 35.4740677
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/ai9pnkvcpx8s9j4w.glb",
+      "assetID": "11511498626050"
+    }
+  },
+  {
+    "name": "连弩塔一阶",
+    "id": 1357298592,
+    "position": {
+      "x": 29.6989784,
+      "y": -20.0,
+      "z": 35.963562
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/y2ypk87ig3y3kkq0.glb",
+      "assetID": "11457454203650"
+    }
+  },
+  {
+    "name": "时缓信标一阶",
+    "id": 1079142673,
+    "position": {
+      "x": 29.707613,
+      "y": -20.0,
+      "z": 36.52992
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/it9k46vdl9pce78o.glb",
+      "assetID": "11471546982402"
+    }
+  },
+  {
+    "name": "棱晶塔一阶",
+    "id": -9819170,
+    "position": {
+      "x": 29.7160912,
+      "y": -20.0,
+      "z": 37.1246567
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/9ezr60mpwoae3gab.glb",
+      "assetID": "11538662444290"
+    }
+  },
+  {
+    "name": "连弩塔二阶",
+    "id": -181043997,
+    "position": {
+      "x": 29.7225285,
+      "y": -20.0,
+      "z": 37.62145
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/tsur4coaeuw6t0ps.glb",
+      "assetID": "11471546990850"
+    }
+  },
+  {
+    "name": "棱晶塔二阶",
+    "id": -1905833212,
+    "position": {
+      "x": 29.727993,
+      "y": -20.0,
+      "z": 37.9993629
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/vlgj5s53q7n9vi91.glb",
+      "assetID": "11477069681666"
+    }
+  },
+  {
+    "name": "辉晶采集器二阶",
+    "id": -94474986,
+    "position": {
+      "x": 29.7320862,
+      "y": -20.0,
+      "z": 38.29528
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/lzzapwakyzbft6od.glb",
+      "assetID": "11456840575746"
+    }
+  },
+  {
+    "name": "晶壁发生器二阶",
+    "id": 246941800,
+    "position": {
+      "x": 29.736372,
+      "y": -20.0,
+      "z": 38.5590172
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/hi9pvhz030d7n7uy.glb",
+      "assetID": "11476539709698"
+    }
+  },
+  {
+    "name": "时缓信标二阶",
+    "id": -1794117947,
+    "position": {
+      "x": 29.7402344,
+      "y": -20.0,
+      "z": 38.8337555
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/s0g0maqjruu7fa5u.glb",
+      "assetID": "11379472187906"
+    }
+  },
+  {
+    "name": "震爆炮台二阶",
+    "id": -1696997449,
+    "position": {
+      "x": 29.7438278,
+      "y": -20.0,
+      "z": 39.0666428
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/j8q6bncgd9rrhe66.glb",
+      "assetID": "11457454213378"
+    }
+  },
+  {
+    "name": "晶壁发生器三阶",
+    "id": -924691338,
+    "position": {
+      "x": 29.7463341,
+      "y": -20.0,
+      "z": 39.3034172
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/9lwc7op135e57ln0.glb",
+      "assetID": "11379886197250"
+    }
+  },
+  {
+    "name": "晶壁发生器四阶A（坚韧护壁专精）",
+    "id": -1248299262,
+    "position": {
+      "x": 29.7511845,
+      "y": -20.0,
+      "z": 39.6060448
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/vdd5o3fxdurocx2w.glb",
+      "assetID": "11427494495490"
+    }
+  },
+  {
+    "name": "晶壁发生器四阶B（破壁击退专精）",
+    "id": 544400332,
+    "position": {
+      "x": 29.75589,
+      "y": -20.0,
+      "z": 39.9597855
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/ktivej6hg8ef763e.glb",
+      "assetID": "11394470903298"
+    }
+  },
+  {
+    "name": "棱晶塔三阶",
+    "id": -935682900,
+    "position": {
+      "x": 29.7914467,
+      "y": -20.0,
+      "z": 42.46027
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/8lrbicadbusq2wqv.glb",
+      "assetID": "11457454235650"
+    }
+  },
+  {
+    "name": "棱晶塔四阶·穿透光束",
+    "id": -48543891,
+    "position": {
+      "x": 29.7965412,
+      "y": -20.0,
+      "z": 42.8472137
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/5vym5dwd4k5ley3m.glb",
+      "assetID": "11345726291714"
+    }
+  },
+  {
+    "name": "棱晶塔四阶·蚀甲聚焦",
+    "id": -632366698,
+    "position": {
+      "x": 29.80797,
+      "y": -20.0,
+      "z": 43.64738
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/bn5kbfdqz9uan3z6.glb",
+      "assetID": "11477069706754"
+    }
+  },
+  {
+    "name": "时缓信标三阶",
+    "id": 636097068,
+    "position": {
+      "x": 29.8227539,
+      "y": -20.0,
+      "z": 44.7194672
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/x5vtm9jsbgg5a7gd.glb",
+      "assetID": "11471547013890"
+    }
+  },
+  {
+    "name": "时缓信标四阶A",
+    "id": 1407052905,
+    "position": {
+      "x": 29.8320465,
+      "y": -20.0,
+      "z": 45.3662224
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/won78jmxiioorjpf.glb",
+      "assetID": "11379886192386"
+    }
+  },
+  {
+    "name": "时缓信标四阶B",
+    "id": 365499844,
+    "position": {
+      "x": 29.8454018,
+      "y": -20.0,
+      "z": 46.3214035
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/ijgmwqs963gad32c.glb",
+      "assetID": "11427494490882"
+    }
+  },
+  {
+    "name": "辉晶采集器三阶",
+    "id": -1584599486,
+    "position": {
+      "x": 29.8527546,
+      "y": -20.0,
+      "z": 46.85272
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/nt5un82m01y8j1wr.glb",
+      "assetID": "11471547013122"
+    }
+  },
+  {
+    "name": "辉晶采集器四阶A（稳定产出专精）",
+    "id": -1906638764,
+    "position": {
+      "x": 29.858078,
+      "y": -20.0,
+      "z": 47.26872
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/2tgleuixtpa85as8.glb",
+      "assetID": "11379886191874"
+    }
+  },
+  {
+    "name": "辉晶采集器四阶B（击杀收益专精）",
+    "id": -871033913,
+    "position": {
+      "x": 29.8650761,
+      "y": -20.0,
+      "z": 47.7361641
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/twjbetwilp5om6ev.glb",
+      "assetID": "11379472211458"
+    }
+  },
+  {
+    "name": "连弩塔三阶",
+    "id": 1116704598,
+    "position": {
+      "x": 29.8743172,
+      "y": -20.0,
+      "z": 48.4779625
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/s9ymt2idu7knfsie.glb",
+      "assetID": "11456840602626"
+    }
+  },
+  {
+    "name": "连弩塔四阶·极速连射",
+    "id": -1386573303,
+    "position": {
+      "x": 29.8841724,
+      "y": -20.0,
+      "z": 49.2514076
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/z7r282wnmyz627ab.glb",
+      "assetID": "11345726290434"
+    }
+  },
+  {
+    "name": "连弩塔四阶·标记协击",
+    "id": -617457784,
+    "position": {
+      "x": 29.8917046,
+      "y": -20.0,
+      "z": 49.78103
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/n19g1590wj5i9042.glb",
+      "assetID": "11427494489858"
+    }
+  },
+  {
+    "name": "震爆炮台三阶",
+    "id": -2044706380,
+    "position": {
+      "x": 29.8985348,
+      "y": -20.0,
+      "z": 50.2427139
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/bemhasjtemx02xui.glb",
+      "assetID": "11477069704962"
+    }
+  },
+  {
+    "name": "震爆炮台四阶A（二次爆破专精）",
+    "id": 945698810,
+    "position": {
+      "x": 29.9039974,
+      "y": -20.0,
+      "z": 50.6744537
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/po5kgremexv6ubw0.glb",
+      "assetID": "11457454234114"
+    }
+  },
+  {
+    "name": "震爆炮台四阶B（燃烧弹专精）",
+    "id": -55912413,
+    "position": {
+      "x": 29.9106827,
+      "y": -20.0,
+      "z": 51.1232071
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/ku6nexczmqm4tes0.glb",
+      "assetID": "11382882137602"
+    }
+  },
+  {
+    "name": "远景山02",
+    "id": -1426954254,
+    "position": {
+      "x": 76.49387,
+      "y": 10.7999887,
+      "z": 68.25604
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "城堡组件_构建17",
+    "id": -588260016,
+    "position": {
+      "x": 65.2164,
+      "y": 7.92295933,
+      "z": 34.1664276
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9839101487618.glb",
+      "assetID": "4016993450498"
+    }
+  },
+  {
+    "name": "城堡大门",
+    "id": -1155369799,
+    "position": {
+      "x": 63.7588463,
+      "y": 7.95172,
+      "z": 33.81131
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761779251202.glb",
+      "assetID": "4016993415938"
+    }
+  },
+  {
+    "name": "远景山02",
+    "id": -528193747,
+    "position": {
+      "x": 90.0,
+      "y": 15.15,
+      "z": 37.3155632
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (1)",
+    "id": 794560534,
+    "position": {
+      "x": 82.43905,
+      "y": 10.6582689,
+      "z": -12.2409534
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (2)",
+    "id": 1265947751,
+    "position": {
+      "x": -23.1388226,
+      "y": 38.7439537,
+      "z": -87.36824
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "英雄武器与动作组件",
+    "id": 1412941580,
+    "position": {
+      "x": 19.56714,
+      "y": 16.3065128,
+      "z": 28.2772388
+    },
+    "asset": null
+  },
+  {
+    "name": "晶界守卫 · 三职业仔仔职装",
+    "id": 818666586,
+    "position": {
+      "x": 4.895273,
+      "y": 8.008301,
+      "z": 38.24643
+    },
+    "asset": null
+  },
+  {
+    "name": "裂隙魔物·动画版",
+    "id": 1767971555,
+    "position": {
+      "x": 25.4125443,
+      "y": -20.0,
+      "z": 37.79633
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/hkujqg8cp6kn0edi.glb",
+      "assetID": "11540022469890"
+    }
+  },
+  {
+    "name": "裂隙疾爪·动画版",
+    "id": 902347738,
+    "position": {
+      "x": 25.7013054,
+      "y": -20.0,
+      "z": 37.7928352
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/hliil8tqoo4a16l1.glb",
+      "assetID": "11345788169474"
+    }
+  },
+  {
+    "name": "裂隙铁背（动画版）",
+    "id": 1316103233,
+    "position": {
+      "x": 24.3886776,
+      "y": -20.0,
+      "z": 37.9023132
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/1c0qh4a53eocz0g7.glb",
+      "assetID": "11394471540738"
+    }
+  },
+  {
+    "name": "裂隙晶壳·动画守卫",
+    "id": -41098505,
+    "position": {
+      "x": 25.7078667,
+      "y": -20.0,
+      "z": 38.0425377
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/9ghpunryiluvz875.glb",
+      "assetID": "11540022469634"
+    }
+  },
+  {
+    "name": "裂隙投矛手（动画版）",
+    "id": -2117721285,
+    "position": {
+      "x": 24.0539589,
+      "y": -20.0,
+      "z": 38.0559959
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/s603w4wod3ln70bu.glb",
+      "assetID": "11382882727682"
+    }
+  },
+  {
+    "name": "裂隙裂团（动画版）",
+    "id": 375072422,
+    "position": {
+      "x": 24.16114,
+      "y": -20.0,
+      "z": 38.14548
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/orjsulwah8jq525k.glb",
+      "assetID": "11556088696322"
+    }
+  },
+  {
+    "name": "裂团子体·动画版",
+    "id": 260100722,
+    "position": {
+      "x": 24.5781517,
+      "y": -20.0,
+      "z": 38.0989151
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/4e7xtv1ihgy6n679.glb",
+      "assetID": "11584727055618"
+    }
+  },
+  {
+    "name": "裂隙铁卫统领（动画版）",
+    "id": 264250199,
+    "position": {
+      "x": 24.9794312,
+      "y": -20.0,
+      "z": 38.1493263
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/barckzz307r9iavf.glb",
+      "assetID": "11379472854274"
+    }
+  },
+  {
+    "name": "裂隙蚀光使（动画版）",
+    "id": -1823846986,
+    "position": {
+      "x": 25.0649281,
+      "y": -20.0,
+      "z": 38.1202621
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/trkwbbvj0z4kmkos.glb",
+      "assetID": "11345726882562"
+    }
+  },
+  {
+    "name": "界门巨兽（骨骼动画版）",
+    "id": -652447457,
+    "position": {
+      "x": 24.87029,
+      "y": -20.0,
+      "z": 38.1417427
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/il1xss66cal8kzcb.glb",
+      "assetID": "11471547653122"
+    }
+  },
+  {
+    "name": "破门兽（骨骼动画版）",
+    "id": 826114117,
+    "position": {
+      "x": 25.2842274,
+      "y": -20.0,
+      "z": 38.154747
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/dtduyntbik7nfpgo.glb",
+      "assetID": "11471547652866"
+    }
+  },
+  {
+    "name": "灯祭者（动作版）",
+    "id": -1863501510,
+    "position": {
+      "x": 25.7809067,
+      "y": -20.0,
+      "z": 38.185524
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/pe0ycofc1q6cllhu.glb",
+      "assetID": "11345726880514"
+    }
+  },
+  {
+    "name": "远景山02 (3)",
+    "id": 494716786,
+    "position": {
+      "x": 22.56175,
+      "y": 10.6582766,
+      "z": -21.6855679
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (4)",
+    "id": -766930943,
+    "position": {
+      "x": -20.6360664,
+      "y": 10.8,
+      "z": 64.77664
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (5)",
+    "id": -1630386332,
+    "position": {
+      "x": -31.322567,
+      "y": 15.3285923,
+      "z": 33.6820068
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (6)",
+    "id": -1931131660,
+    "position": {
+      "x": 22.4981747,
+      "y": 10.7999964,
+      "z": 83.66392
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (7)",
+    "id": -1081595890,
+    "position": {
+      "x": -25.3446541,
+      "y": 10.8,
+      "z": 2.64016724
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (8)",
+    "id": 2147160224,
+    "position": {
+      "x": -90.4732056,
+      "y": 51.7867355,
+      "z": -84.77049
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (9)",
+    "id": 2093516308,
+    "position": {
+      "x": 296.958435,
+      "y": 100.041077,
+      "z": 30.2084656
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (10)",
+    "id": 1018955367,
+    "position": {
+      "x": -49.1156921,
+      "y": 27.8077965,
+      "z": -82.9505
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (11)",
+    "id": 86340387,
+    "position": {
+      "x": 34.34131,
+      "y": 49.304615,
+      "z": -88.7274246
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (12)",
+    "id": 1920063202,
+    "position": {
+      "x": -120.075989,
+      "y": 69.43506,
+      "z": 83.2890244
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (13)",
+    "id": 1235183493,
+    "position": {
+      "x": 102.549591,
+      "y": 49.304615,
+      "z": -88.7274246
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "远景山02 (14)",
+    "id": 598721791,
+    "position": {
+      "x": 102.549576,
+      "y": 69.47058,
+      "z": 172.030487
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/9761786933506.glb",
+      "assetID": "4016701441538"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (8)",
+    "id": 270024078,
+    "position": {
+      "x": 39.47878,
+      "y": 7.86072159,
+      "z": 28.9725647
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (9)",
+    "id": 265313318,
+    "position": {
+      "x": 55.7941322,
+      "y": 7.86072159,
+      "z": 37.215435
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "石制圆坛塔基 (10)",
+    "id": 134002968,
+    "position": {
+      "x": 9.138225,
+      "y": 7.86072159,
+      "z": 39.67807
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/usjtboippf9sg5q0.glb",
+      "assetID": "11345787217154"
+    }
+  },
+  {
+    "name": "晶界守卫 战斗表现素材V2",
+    "id": -78523823,
+    "position": {
+      "x": 34.8457031,
+      "y": 120.0,
+      "z": 31.1609879
+    },
+    "asset": {
+      "uri": "hamlet-ugc/aigc_editor/dev/unity/MS4wLjABAAAAiXeSmRTg5HzBJoZQNA48Huyphyi10N36i8B2izzYJ3Y/73din5zfatx48evr.glb",
+      "assetID": "11608558234626"
+    }
+  }
+]

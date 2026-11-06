@@ -1,0 +1,4 @@
+---@id 8ca6fc48-59ee-49d3-9ef2-6c7f7847360a
+---@referenceName pi-runner-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTEzNDU3ODgxNjk0NzQiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvaGxpaWw4dHFvbzRhMTZsMS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktcnVubmVyLXByZXZpZXcubHVhIn0
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

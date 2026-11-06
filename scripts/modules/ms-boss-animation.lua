@@ -1,0 +1,4 @@
+---@id 93a8caa9-cde4-4827-9e6f-cda914b9337d
+---@referenceName ms-boss-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTE0NzE1NDc2NTMxMjIiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvaWwxeHNzNjZjYWw4a3pjYi5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtYm9zcy1hbmltYXRpb24ubHVhIn0
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

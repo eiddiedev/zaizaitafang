@@ -1,0 +1,4 @@
+---@id fbecabe0-43f8-48ab-916f-93af58347dad
+---@referenceName pi-armored-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTEzOTQ0NzE1NDA3MzgiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvMWMwcWg0YTUzZW9jejBnNy5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktYXJtb3JlZC1wcmV2aWV3Lmx1YSJ9
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

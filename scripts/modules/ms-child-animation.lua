@@ -1,0 +1,4 @@
+---@id 515cbc65-b1d1-4a8e-ad9f-79407ce3e6a3
+---@referenceName ms-child-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTE1ODQ3MjcwNTU2MTgiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvNGU3eHR2MWloZ3k2bjY3OS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtY2hpbGQtYW5pbWF0aW9uLmx1YSJ9
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

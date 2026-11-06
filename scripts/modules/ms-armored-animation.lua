@@ -1,0 +1,4 @@
+---@id e1137a8e-eeff-4abf-984d-60d6cb581315
+---@referenceName ms-armored-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTEzOTQ0NzE1NDA3MzgiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvMWMwcWg0YTUzZW9jejBnNy5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtYXJtb3JlZC1hbmltYXRpb24ubHVhIn0
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

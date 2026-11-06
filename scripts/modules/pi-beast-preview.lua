@@ -1,0 +1,4 @@
+---@id 3aed2ae5-68c9-4223-a313-592e8c4c3b3a
+---@referenceName pi-beast-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTE1NDAwMjI0Njk4OTAiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvaGt1anFnOGNwNmtuMGVkaS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktYmVhc3QtcHJldmlldy5sdWEifQ
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

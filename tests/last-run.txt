@@ -1,0 +1,66 @@
+PASS Lua 5.3 syntax: 58 scripts
+
+=== test_barrier.py ===
+PASS 11 enemy types; already-passed/other-route exclusion; 8-enemy overflow; swept crossing; root; expiry; boss 2-second break
+test_barrier.py: exit 0, 0.07s
+
+=== test_combat.py ===
+PASS: 3 classes, windup, action sequence, snapshot roundtrip, mage armor/resistance, AoE radius, cooldown, cast overlap, death cancellation, melee approach, class swap health, Lua syntax
+test_combat.py: exit 0, 0.04s
+
+=== test_enemy_combat.py ===
+PASS: ranged/caster/Boss windup, projectile travel warning, stationary hit, dodge, finite boss range, caster death cancellation
+test_enemy_combat.py: exit 0, 0.05s
+
+=== test_facing.py ===
+PASS 3 classes x 4 actions: turn before aim/pose; LateUpdate wins over movement; dash direction untouched
+test_facing.py: exit 0, 0.05s
+
+=== test_primary_audio.py ===
+PASS original tower/hero audio routing; 30 delayed primary cues stay visible; damage clocks/skills unchanged; old volleys not replayed
+test_primary_audio.py: exit 0, 0.04s
+
+=== test_render_math.py ===
+PASS finite bounded VFX transforms: 2727 frames
+test_render_math.py: exit 0, 0.10s
+
+=== test_revive.py ===
+PASS: countdown pauses across intermissions; 15 combat seconds restores 50%, immunity; teammate aid also pauses and restores 35%
+PASS: disconnected/reconnected hero keeps remaining combat-only respawn time
+test_revive.py: exit 0, 0.06s
+
+=== test_slash_alignment.py ===
+PASS 672 slash poses: mirrored UVs, 8 directions, ordinary/giant ranges; blade stays forward; spin radius unchanged
+test_slash_alignment.py: exit 0, 0.04s
+
+=== test_soak.py ===
+SOAK 1 players, peak alive/effects/pending, leaked core damage: (27, 64, 11, 156)
+SOAK 2 players, peak alive/effects/pending, leaked core damage: (43, 64, 12, 367)
+SOAK 3 players, peak alive/effects/pending, leaked core damage: (58, 64, 14, 717)
+test_soak.py: exit 0, 9.10s
+
+=== test_transfer.py ===
+OK: 58 scripts match the saved scene; all package hashes valid
+OK: 58 scripts match the saved scene; all package hashes valid
+DRY RUN: full, 60 files -> <TEMP>/empty-editor-project
+OK: 58 scripts match the saved scene; all package hashes valid
+APPLY: full, 60 files -> <TEMP>/empty-editor-project
+Installed and verified. Backup: <TEMP>/empty-editor-project-before-gameplay-20261106-164754-fm_g09rk
+Open the destination project, save once, then run local preview. Asset downloads require the editor account.
+OK: 58 scripts match the saved scene; all package hashes valid
+DRY RUN: scripts, 58 files -> <TEMP>/empty-editor-project
+PASS dry run, backup, full restore, exact scripts, preserved world identity, scripts mode, path safety
+test_transfer.py: exit 0, 0.71s
+
+=== test_trio.py ===
+PASS: solo treasury, late join shared funds, cross-player upgrade, overdraft rejection, 2-person sale approval, expiry, combat sale request, snapshots, third can build, fourth spectator
+PASS: dual start funds, solo sale, reconnect cannot exceed three active players
+PASS: eleven shared slots, teammate upgrades, Lua syntax
+PASS: three-player start, shared treasury, third player upgrades
+test_trio.py: exit 0, 0.05s
+
+=== test_vfx.py ===
+PASS: dash phase/limits/CD/immunity/codec; projectile-hit clocks; leaf 3-target decay; one ult cue; 12 animation timelines
+test_vfx.py: exit 0, 0.05s
+
+PASS all offline checks. Editor, mobile, asset delivery and real multiplayer require device validation.

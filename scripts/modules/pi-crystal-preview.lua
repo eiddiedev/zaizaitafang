@@ -1,0 +1,4 @@
+---@id e46bd4ad-6570-4b7d-9bc4-d9fcb55e439e
+---@referenceName pi-crystal-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTE1NDAwMjI0Njk2MzQiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvOWdocHVucnlpbHV2ejg3NS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktY3J5c3RhbC1wcmV2aWV3Lmx1YSJ9
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

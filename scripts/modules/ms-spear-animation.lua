@@ -1,0 +1,4 @@
+---@id 384d91b6-e908-4263-b577-276ddd959e34
+---@referenceName ms-spear-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTEzODI4ODI3Mjc2ODIiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvczYwM3c0d29kM2xuNzBidS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtc3BlYXItYW5pbWF0aW9uLmx1YSJ9
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

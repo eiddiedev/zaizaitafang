@@ -1,0 +1,4 @@
+---@id 033b2ffe-b39f-4735-9c64-a093a8b70483
+---@referenceName ms-healer-animation.lua
+---@assetRef eyJhc3NldElkIjoiMTEzNDU3MjY4ODA1MTQiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvcGUweWNvZmMxcTZjbGxodS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoibXMtaGVhbGVyLWFuaW1hdGlvbi5sdWEifQ
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

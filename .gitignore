@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+node_modules/
+world-config.json
+ai-sessions/
+.creator/
+.ai-asset-debug-upload/

@@ -1,0 +1,4 @@
+---@id a2104398-0517-4a24-9130-a4ba003a4bf8
+---@referenceName pi-child-preview.lua
+---@assetRef eyJhc3NldElkIjoiMTE1ODQ3MjcwNTU2MTgiLCJhc3NldFVyaSI6ImhhbWxldC11Z2MvYWlnY19lZGl0b3IvZGV2L3VuaXR5L01TNHdMakFCQUFBQWlYZVNtUlRnNUh6QkpvWlFOQTQ4SHV5cGh5aTEwTjM2aThCMml6ellKM1kvNGU3eHR2MWloZ3k2bjY3OS5nbGIiLCJyZWZlcmVuY2VOYW1lIjoicGktY2hpbGQtcHJldmlldy5sdWEifQ
+-- 局内仅用作静止资源模板；动作由敌人实例控制，预览面板仅保留在资产库。

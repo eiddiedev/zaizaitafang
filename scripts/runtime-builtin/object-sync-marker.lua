@@ -1,0 +1,6 @@
+--- 标记需要同步运动的对象，由引擎处理网络同步。
+---@runtimeBuiltin ObjectSyncMarker
+---@id c0b9b991-5f98-4bf1-8f12-3ee38a1736f0
+---@referenceName runtime-builtin___ObjectSyncTarget__.lua
+---@start
+---@end
